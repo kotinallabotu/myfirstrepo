@@ -1,3 +1,9 @@
-adding 1st line
+adding line 1
+adding line2
 
-adding 2nd line
+addding line 3
+adding line4
+
+adding lines 5
+
+adding line 6
